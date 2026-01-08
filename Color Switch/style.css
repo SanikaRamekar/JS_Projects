@@ -1,0 +1,40 @@
+*{
+    /* color: white; */
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    /* display: inline-block; */
+}
+span{
+    display: block;
+}
+.canvas{
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+h1{
+    margin-bottom:10px
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-bottom:15px
+}
+#gray{
+    background:gray;
+}
+#white{
+    background:white
+}
+#yellow{
+    background:rgb(251, 251, 161)
+}
+#pink{
+    background:rgb(248, 158, 173)
+}
